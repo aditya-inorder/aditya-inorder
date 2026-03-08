@@ -14,6 +14,7 @@
 
 
 
+
 <!-- Footer Wave (Commented Out)
 <p align="center">
   <img 
@@ -22,6 +23,7 @@
   />
 </p>
 -->
+
 
 
 
@@ -52,8 +54,10 @@
 
 
 
+
 <!-- Greeting -->
 <!-- <h2 align="center">❂ I am Aditya Pratap Singh</h2> -->
+
 
 
 
@@ -65,6 +69,7 @@
   width="400"
   src="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Penguin3.png"
 />
+
 
 
 
@@ -82,7 +87,9 @@
 
 
 
+
 <br clear="left" />
+
 
 
 
@@ -100,7 +107,9 @@
 
 
 
+
 <br>
+
 
 
 
@@ -132,6 +141,7 @@
 
 
 
+
 <!-- Tech Stack -->
 <h3 align="center">━━ Security & Development Stack ━━</h3>
 <div align="center">
@@ -140,12 +150,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+  <a href="https://owasp.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"></a>
 
   <br><br>
 
@@ -160,15 +169,8 @@
   <a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.shields.io/badge/John_The_Ripper-8B0000?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.kali.org/tools/aircrack-ng/" target="_blank"><img src="https://img.shields.io/badge/Aircrack--ng-1E88E5?style=for-the-badge&logoColor=white"></a>
 
-  <br><br>
-
-  <a href="https://www.zaproxy.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logoColor=white"></a>
-  <a href="https://tryhackme.com/" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-  <a href="https://portswigger.net/web-security" target="_blank"><img src="https://img.shields.io/badge/Web_App_Security-4B0082?style=for-the-badge&logoColor=white"></a>
-  <a href="https://owasp.org/" target="_blank"><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"></a>
-  <a href="https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)" target="_blank"><img src="https://img.shields.io/badge/CTF-8A2BE2?style=for-the-badge&logoColor=white"></a>
-
 </div>
+
 
 
 
@@ -178,10 +180,12 @@
 
 
 
+
 <!-- Ending -->
 <p align="center">
   Keep building... but don't forget to take a break.
 </p>
+
 
 
 
