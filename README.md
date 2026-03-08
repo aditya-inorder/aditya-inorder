@@ -10,12 +10,6 @@
 </div>
 -->
 
-
-
-
-
-
-
 <!-- Footer Wave (Commented Out)
 <p align="center">
   <img 
@@ -24,12 +18,6 @@
   />
 </p>
 -->
-
-
-
-
-
-
 
 <!-- MasterHead -->
 <picture>
@@ -53,20 +41,8 @@
   />
 </picture>
 
-<p align="center"><code>root@aditya:~$ whoami</code></p>
-
-
-
-
-
-
 <!-- Greeting -->
 <!-- <h2 align="center">❂ I am Aditya Pratap Singh</h2> -->
-
-
-
-
-
 
 <br>
 
@@ -77,11 +53,6 @@
   src="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Penguin3.png"
 />
 
-
-
-
-
-
 <!-- About Me -->
 <h3 align="left">【 About Me 】</h3>
 <p>
@@ -91,18 +62,7 @@
   ✧ Interests: Cybersecurity, Designing, AI & Automation.<br>
 </p>
 
-
-
-
-
-
 <br clear="left" />
-
-
-
-
-
-
 
 <!-- Languages & Tools -->
 <h3 align="center">━━ Languages & Tools ━━</h3>
@@ -112,19 +72,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,figma,notion,c,java,vim,pwsh" /><br>
 </div>
 
-
-
-
-
-
-
 <br>
-
-
-
-
-
-
 
 <!-- Interesting Repositories -->
 <div align="center">
@@ -147,17 +95,9 @@
   </p>
 </div>
 
-
-
-
-
-
-
-
 <!-- Tech Stack -->
 <h3 align="center">━━ Security & Development Stack ━━</h3>
 <div align="center">
-
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -180,30 +120,14 @@
   <a href="https://www.kali.org/tools/gobuster/" target="_blank"><img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.openwall.com/john/" target="_blank"><img src="https://img.shields.io/badge/John_The_Ripper-8B0000?style=for-the-badge&logoColor=white"></a>
   <a href="https://www.kali.org/tools/aircrack-ng/" target="_blank"><img src="https://img.shields.io/badge/Aircrack--ng-1E88E5?style=for-the-badge&logoColor=white"></a>
-
 </div>
 
-
-
-
-
-
 <br>
-
-
-
-
-
 
 <!-- Ending -->
 <p align="center">
   <code>Keep building... but don't forget to take a break.</code>
 </p>
-
-
-
-
-
 
 <a href="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Arts/Adventuretime.gif">
   <img
