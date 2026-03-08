@@ -76,7 +76,7 @@
 
 
 <!-- About Me -->
-<h3 align="left">━━ About Me ━━</h3>
+<h3 align="left">【 About Me 】</h3>
 <p>
   ✧ Hi, I am Aditya Pratap Singh from India. I love web development, digital security, and designing.<br><br>
   ✧ Actively developing cybersecurity skills through hands‑on practice and continuous learning.<br><br>
@@ -183,7 +183,7 @@
 
 <!-- Ending -->
 <p align="center">
-  `Keep building... but don't forget to take a break.`
+  Keep building... but don't forget to take a break.
 </p>
 
 
