@@ -11,6 +11,7 @@
 -->
 
 
+
 <!-- Footer Wave (Commented Out)
 <p align="center">
   <img 
@@ -21,12 +22,13 @@
 -->
 
 
+
 <!-- MasterHead -->
 <picture>
   <!-- Dark theme: Cyberpunk -->
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Cyberpunkk.gif"
+    srcset="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Cyberpunk.gif"
   />
   <!-- Light theme: Day -->
   <source
@@ -43,8 +45,10 @@
 </picture>
 
 
+
 <!-- Greeting -->
 <!-- <h2 align="center">❂ I am Aditya Pratap Singh</h2> -->
+
 
 
 <img
@@ -53,6 +57,7 @@
   width="400"
   src="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Penguin3.png"
 />
+
 
 
 <!-- About Me -->
@@ -64,7 +69,9 @@
   ✧ Interests: Cybersecurity, Designing, AI & Automation.<br>
 </p>
 
+
 <br clear="left" />
+
 
 
 <!-- Languages & Tools -->
@@ -77,7 +84,9 @@
 </div>
 
 
+
 <br>
+
 
 
 <!-- Interesting Repositories -->
@@ -103,9 +112,11 @@
 
 
 
+
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
+
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
@@ -142,14 +153,18 @@
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 
+
 </div>
 
+
 <br>
+
 
 <!-- Ending -->
 <p align="center">
   Keep working... but don't forget to relax.
 </p>
+
 
 <a href="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Arts/Adventuretime.gif">
   <img
