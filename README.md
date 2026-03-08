@@ -10,6 +10,7 @@
 </div>
 -->
 
+
 <!-- Footer Wave (Commented Out)
 <p align="center">
   <img 
@@ -19,16 +20,20 @@
 </p>
 -->
 
+
 <!-- MasterHead -->
 <a href="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Adventuretime.gif">
   <img width="1000" height="500" src="https://github.com/aditya-inorder/symmetrical-summary/blob/main/Greyscenery.png" alt="Fallout GIF"/>
 </a>
 
+
 <!-- Greeting -->
 <!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
 
 
+
 <img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
@@ -41,16 +46,6 @@
 
 <br clear="left" />
 
-<h3 align="center">🧲 Drop me a line:</h3>
-<div align="center">
-  <a href="mailto:thadijoshua@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
-  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="57px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
-</div>
-
-<br>
 
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
@@ -61,16 +56,8 @@
   <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
 </div>
 
+
 <br>
-
-<!-- GitHub Status -->
-<h3 align="center">🌱 GitHub Status</h3>
-<div align="center">
-  <!-- <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" /> -->
-<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
 
 
 <!-- Best Repositories -->
@@ -93,11 +80,14 @@
 </div>
 
 
+
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
 
+
 <!-- Languages -->
+
 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
@@ -138,25 +128,12 @@
 
 </div>
 
-</div>
 
-
-
-<!-- Support -->
-<h3 align="center">💰 Support Me</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
-  </a>
-</p>
 
 <!-- Ending -->
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
   <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
 </a>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
-<p align="center">
-  ⚠️ This README is uniquely designed by <strong>@JoshuaThadi.</strong>
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
