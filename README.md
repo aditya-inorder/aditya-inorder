@@ -29,7 +29,7 @@
   <!-- Light theme: Day -->
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Snow.png"
+    srcset="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Snow.gif"
   />
   <!-- Fallback / other: Blossom -->
   <img
