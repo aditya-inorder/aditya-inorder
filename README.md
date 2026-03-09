@@ -20,26 +20,27 @@
 -->
 
 <!-- MasterHead -->
-<picture>
-  <!-- Dark theme: Cyberpunk -->
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Cyberpunk.gif"
-  />
-  <!-- Light theme: Snow -->
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Snow.gif"
-  />
-  <!-- Fallback / other: Blossom -->
-  <img
-    width="1000"
-    height="500"
-    src="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Blossom.gif"
-    alt="Profile banner"
-    style="border-radius: 18px;"
-  />
-</picture>
+<p align="center">
+  <picture>
+    <!-- Dark theme: Cyberpunk -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Cyberpunk.gif"
+    />
+    <!-- Light theme: Snow -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Snow.gif"
+    />
+    <!-- Fallback / other: Blossom -->
+    <img
+      src="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Blossom.gif"
+      alt="Profile banner"
+      width="100%"
+    />
+  </picture>
+</p>
+
 
 <picture>
   <source
