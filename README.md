@@ -41,18 +41,6 @@
   />
 </picture>
 
-<!-- Greeting -->
-<!-- <h2 align="center">❂ I am Aditya Pratap Singh</h2> -->
-
-<br>
-
-<img
-  align="left"
-  alt="About illustration"
-  width="400"
-  src="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Penguin3.png"
-/>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -68,6 +56,17 @@
   />
 </picture>
 
+<!-- Greeting -->
+<!-- <h2 align="center">❂ I am Aditya Pratap Singh</h2> -->
+
+<br>
+
+<img
+  align="left"
+  alt="About illustration"
+  width="400"
+  src="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Penguin3.png"
+/>
 
 <!-- About Me -->
 <h3 align="left">【 About Me 】</h3>
