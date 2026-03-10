@@ -25,7 +25,7 @@
     <!-- Dark theme: Cyberpunk -->
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/Cyberpunk.gif"
+      srcset="https://raw.githubusercontent.com/aditya-inorder/symmetrical-summary/main/Arts/testo.png"
     />
     <!-- Light theme: Snow -->
     <source
